@@ -1,0 +1,92 @@
+﻿body {
+    
+}
+
+
+.search{
+    margin-top:10px;
+    margin-left:400px;
+    width:600px;
+    height:25px;
+    border-radius:10px;
+}
+.panelcss{
+    margin-top :5px;
+    width:200px;
+    height:inherit;
+    background-color:dimgrey;
+    border-radius:8px;
+}
+
+.trending {
+    margin-top: 2px;
+    margin-left: 0px;
+    height: 45px;
+    width: 200px;
+    border: none;
+    background-image: linear-gradient(to left,#21025f,#2a004d);
+}
+.trending:hover {
+    background-image: linear-gradient(to left,#170141,#200139);
+}
+.download {
+    margin-top: 2px;
+    margin-left: 0px;
+    height: 45px;
+    width: 200px;
+    border: none;
+    background-image: linear-gradient(to left,#21025f,#2a004d);
+}
+.download:hover {
+    background-image: linear-gradient(to left,#170141,#200139);
+}
+.channel {
+    margin-top: 2px;
+    margin-left: 0px;
+    height: 45px;
+    width: 200px;
+    border: none;
+    background-image: linear-gradient(to left,#21025f,#2a004d);
+}
+.channel:hover {
+    background-image: linear-gradient(to left,#170141,#200139);
+}
+.logout {
+    margin-top: 2px;
+    margin-left: 0px;
+    height: 45px;
+    width: 200px;
+    border: none;
+    background-image: linear-gradient(to left,#21025f,#2a004d);
+}
+.logout:hover {
+    background-image: linear-gradient(to left,#170141,#200139);
+}
+.searchbtn{
+    margin-top:2px;
+    left:auto;
+    
+    height:30px;
+    width:30px;
+    
+}
+.searchbtn:hover{
+    background-color:blue;
+}
+.menubtn {
+    margin-top: 0px;
+    margin-left: 10px;
+    height: 40px;
+    width: 40px;
+    border-radius:40px;
+}
+.iconbtn {
+    margin-top: 0px;
+    margin-left: 200px;
+    height: 35px;
+    width: 35px;
+}
+.data{
+    margin-left :205px;
+
+}

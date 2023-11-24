@@ -1,0 +1,58 @@
+﻿@font-face {
+	font-family: Roboto-Light;
+	src: url('../../Users/Nanda Kumar/Downloads/font/Roboto-Light.ttf') format('truetype');
+}
+
+body {
+    background-image:url('images/loginbk.jpeg');
+    margin-left: 50px;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 100vh;
+    overflow: hidden;
+}
+
+
+
+.title {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:larger;
+    color: whitesmoke;
+    top:20px;
+    padding-left: 52px;
+    margin-left: 0px;
+}
+
+.email {
+    
+    border-bottom: inset;
+    border-bottom-color: whitesmoke;
+}
+
+    .email input {
+        background: none;
+        height: 30px;
+        width: 200px;
+        border: none;
+        text-align: center;
+        font-family: Arial, Times, sans-serif;
+        font-size: 15px;
+        color: whitesmoke;
+        outline: none;
+    }
+
+
+
+
+
+
+/*.login button{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: black;
+    background-color: deepskyblue;
+    height: 30px;
+    width: 50px;
+    border: thin;
+    border-radius: 30px;
+}*/

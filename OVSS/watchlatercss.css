@@ -1,0 +1,102 @@
+﻿body {
+    background-color: #999999;
+}
+
+.searchbar {
+    top: auto;
+    left: auto;
+    height: 50px;
+    width: auto;
+    background-color: black;
+}
+
+.search {
+    margin-top: 10px;
+    margin-left: 400px;
+    width: 600px;
+    height: 25px;
+}
+
+.panelcss {
+    margin-top: 5px;
+    width: 200px;
+    height: inherit;
+    background-color: dimgrey;
+}
+
+.home {
+    margin-top: 15px;
+    margin-left: 5px;
+    height: 35px;
+    width: 190px;
+}
+
+.trending {
+    margin-top: 15px;
+    margin-left: 5px;
+    height: 35px;
+    width: 190px;
+}
+
+.download {
+    margin-top: 15px;
+    margin-left: 5px;
+    height: 35px;
+    width: 190px;
+}
+
+.channel {
+    margin-top: 15px;
+    margin-left: 5px;
+    height: 35px;
+    width: 190px;
+}
+
+.logout {
+    margin-top: 15px;
+    margin-left: 5px;
+    height: 35px;
+    width: 190px;
+}
+
+.searchbtn {
+    margin-top: 0px;
+    left: auto;
+    height: 30px;
+    width: 30px;
+}
+
+.menubtn {
+    margin-top: 0px;
+    margin-left: 10px;
+    height: 35px;
+    width: 35px;
+}
+
+.iconbtn {
+    margin-top: 0px;
+    margin-left: 200px;
+    height: 35px;
+    width: 35px;
+}
+
+.data {
+    margin-left: 205px;
+}
+
+.v1 {
+    width: 201px;
+    height: inherit;
+    float: left;
+}
+
+.v2 {
+    float: left;
+    width: 1200px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.video {
+    margin-top: 5px;
+}

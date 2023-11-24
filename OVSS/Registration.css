@@ -1,0 +1,36 @@
+﻿@font-face {
+    font-family: Roboto-Light;
+    src: url('../../Users/Nanda Kumar/Downloads/font/Roboto-Light.ttf') format('truetype');
+}
+
+
+
+.auto-style21{
+    background-color:black;
+    border-style:none;
+    border-radius:5px;
+
+}   
+.auto-style30{
+    padding-left:80px;
+}
+.auto-style9{
+    border-radius:24px;
+    text-align:center;
+}
+.auto-style27 {
+    border-radius: 24px;
+    background-color: black;
+}
+.td.auto-style31 {
+    background-color: black;
+}
+.auto-style23{
+    padding-right:5px;
+}
+.auto-style24 {
+    height:24px;
+    width:24px;
+    margin-left:10px;
+    padding-top:20px;
+}
